@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-
 # Set localhost to resolve to 127.0.0.2 and
-#facebook.com to 8.8.8.8 on an Ubuntu server
+# facebook.com to 8.8.8.8 on an Ubuntu server
 
 sudo cp /etc/hosts /etc/hosts.backup
 
