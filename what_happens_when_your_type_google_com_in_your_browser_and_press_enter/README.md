@@ -20,7 +20,7 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-![imagen](https://intranet.hbtn.io/concepts/816)
+* [Technical Writing Tips and Tricks for students](https://intranet.hbtn.io/concepts/816)
 
 
 ## Requirements
