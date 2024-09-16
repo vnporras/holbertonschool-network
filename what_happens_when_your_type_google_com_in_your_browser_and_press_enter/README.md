@@ -20,7 +20,7 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-![imagen](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.p…s/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg)
+![imagen](https://intranet.hbtn.io/concepts/816)
 
 
 ## Requirements
