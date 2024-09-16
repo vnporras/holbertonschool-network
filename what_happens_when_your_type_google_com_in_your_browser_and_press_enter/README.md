@@ -10,7 +10,7 @@
 
 For this project, we expect you to look at this concept:
 
-* Technical Writing Tips and Tricks for students
+* [Technical Writing Tips and Tricks for students](https://intranet.hbtn.io/concepts/816)
 
 ##Background Context
 
@@ -20,7 +20,7 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-* [Technical Writing Tips and Tricks for students](https://intranet.hbtn.io/concepts/816)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg) 
 
 
 ## Requirements
